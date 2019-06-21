@@ -1,5 +1,5 @@
 ---
-title: "karyoploteR"
+title: "Visualizing genomic data with karyoploteR"
 output: ioslides_presentation
 ---
 
