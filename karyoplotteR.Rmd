@@ -391,7 +391,13 @@ plotOnIdeo(chrom=seqlevels(binned_multiSeries),
 
 ## Additional resources
 
+<div class="columns-2">
 - [bioconductor vignettes](https://bioconductor.org/packages/release/bioc/vignettes/karyoploteR/inst/doc/karyoploteR.html)
 - [github tutorial](https://bernatgel.github.io/karyoploter_tutorial/)
+
+![](figures/stack.jpg){height=90%} 
+</div>
+
+<!-- ![](figures/stack.jpg){height=90%} -->
 
 ## {data-background=figures/r_meetup.png data-background-size="600px 600px"}
