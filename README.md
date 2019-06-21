@@ -1,4 +1,4 @@
-# June 2019: Introduction to karyoploteR
+# June 2019: Visualizing genomic data with karyoploteR
 
 ## Presenter: [Jordan Creed](mailto:jordan.h.creed@moffitt.org)
 
